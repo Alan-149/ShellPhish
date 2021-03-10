@@ -1,3 +1,4 @@
+Cd
 #!/bin/bash
 
 # ShellPhish v2.5-Mod
